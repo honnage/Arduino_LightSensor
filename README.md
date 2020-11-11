@@ -21,15 +21,17 @@ style="float: left; margin-right: 10px;" />
 alt="Buzzer"
 style="float: left; margin-right: 10px;" />
 
+
 โครงร่าง
-<img src="20201111_183700.jpg"
+<img src="POTOTYPE.png"
 alt="โครงร่าง"
 style="float: left; margin-right: 10px;" />
 
 ตัวต้นแบบ
-<img src="POTOTYPE.png"
+<img src="20201111_183700.jpg"
 alt="ตัวต้นแบบ"
 style="float: left; margin-right: 10px;" />
+
      
 ##Story
 โครงการชิ้นนี้ทำเพื่อแจ้งเตือน เพื่อช่วยผู้ปกครองที่มีรถ แล้วบุตรหลานเวลาที่จะถอยรถ จะยากลำบาก ถ้าไม่เห็นของหลังหรือ คนที่ตัวสูงเช่น เด็กๆ ที่อยู่หลังรถอาจจะทำให้เกิดอุบัติเหตุขึ้นได้
