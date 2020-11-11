@@ -23,7 +23,7 @@ style="float: left; margin-right: 10px;" />
 
 
 โครงร่าง
-<img src="POTOTYPE.png"
+<img src="0.png"
 alt="โครงร่าง"
 style="float: left; margin-right: 10px;" />
 
