@@ -1,4 +1,4 @@
-# Arduino เซ็นเซอร์วัดระยังทาง
+# Arduino เซ็นเซอร์วัดระยะทาง
 อุปกรณ์ที่ใข้
 1. Arduino Uno
 2. Breadboard
@@ -22,7 +22,7 @@ alt="Buzzer"
 style="float: left; margin-right: 10px;" />
 
 โครงร่าง
-<img src="POTOTYPE.jfif"
+<img src="20201111_183700.jpg"
 alt="โครงร่าง"
 style="float: left; margin-right: 10px;" />
 
