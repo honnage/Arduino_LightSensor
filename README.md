@@ -26,6 +26,6 @@ style="float: left; margin-right: 10px;" />
 
 ประโยชน์ที่จะได้รับจากโครงงานนี้คือ สามารถแจ้งเตือนผู้ปกครองเวลาถอยรถเข้าบ้านเมือมี เด็ก หรือ วัตถุ อยู่ใกล้ ในโปรแกรมนี้จะยกตัวอย่างที่อยู่ใกล้น้อยกว่า 50 เซนติเมตรจะแจ้งส่งเสียงแจ้งเตือนแล้มีไฟสว่างขึ้นมาถ้าอยู่ใล้กวา 50 เซนติ
 
-[Power Automate](https://youtu.be/sr7_FshxCuU)
+(https://youtu.be/sr7_FshxCuU)
 
-[![Little red riding hood](https://youtu.be/sr7_FshxCuU) "Little red riding hood - Click to Watch!")
+
